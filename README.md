@@ -75,4 +75,7 @@ Connect 3.7V–6V to the **Vin** pin of ESP32. ESP32 has onboard voltage regulat
 - Shows X/Y joystick values
 - Indicates button clicks and mode toggling
 
----
+![image](https://github.com/user-attachments/assets/cf81019c-7f12-46be-b8be-57fc6b1502a4)
+![project_image](https://github.com/user-attachments/assets/66997b7d-81d5-4577-a383-603ca5348717)
+
+
